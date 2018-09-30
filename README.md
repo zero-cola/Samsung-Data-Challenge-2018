@@ -1,5 +1,6 @@
 # Samsung-Data-Challenge-2018
-주제: 과거 교통사고 데이터를 분석하여 미래 교통사고 예측하기 (https://research.samsung.com/aichallenge/data)
+주제: 과거 교통사고 데이터를 분석하여 미래 교통사고 예측하기 (https://research.samsung.com/aichallenge/data)  
+
 발표자료: [slideshare](https://www.slideshare.net/KyusooHan/missing-data-prediction-using-nmdae)
 
 # Data
